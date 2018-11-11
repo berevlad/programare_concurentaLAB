@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lab.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="401.255" Width="609.937">
+    <Grid>
+        <TextBox x:Name="Text_Initial" HorizontalAlignment="Left" Height="127" Margin="23,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="384"/>
+        <Button x:Name="btnThread" Content="Executa in Thread" HorizontalAlignment="Left" Margin="445,50,0,0" VerticalAlignment="Top" Width="134" Height="49" Click="BtnThread_Click"/>
+        <TextBox x:Name="Criptat" HorizontalAlignment="Left" Height="129" Margin="23,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="384"/>
+        <Button x:Name="BtnExec" Content="Executa" HorizontalAlignment="Left" Margin="445,123,0,0" VerticalAlignment="Top" Width="134" RenderTransformOrigin="0.57,-0.674" Height="54" Click="BtnExec_Click"/>
+        <TextBox x:Name="Durata" HorizontalAlignment="Left" Height="49" Margin="445,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <Label x:Name="label" Content="Text de criptat" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label x:Name="label1" Content="Text criptat" HorizontalAlignment="Left" Margin="23,182,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label x:Name="label2" Content="Timp de criptare" HorizontalAlignment="Left" Margin="445,214,0,0" VerticalAlignment="Top" Width="105"/>
+
+    </Grid>
+</Window>

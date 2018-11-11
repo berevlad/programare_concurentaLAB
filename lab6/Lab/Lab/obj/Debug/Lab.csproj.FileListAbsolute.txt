@@ -1,0 +1,14 @@
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\MainWindow.g.cs
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\App.g.cs
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab_MarkupCompile.cache
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab_MarkupCompile.lref
+D:\FAcultate\PC\lab6\Lab\Lab\bin\Debug\Lab.exe.config
+D:\FAcultate\PC\lab6\Lab\Lab\bin\Debug\Lab.exe
+D:\FAcultate\PC\lab6\Lab\Lab\bin\Debug\Lab.pdb
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\MainWindow.baml
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.g.resources
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.exe
+D:\FAcultate\PC\lab6\Lab\Lab\obj\Debug\Lab.pdb
